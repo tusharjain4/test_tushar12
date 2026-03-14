@@ -1,0 +1,33 @@
+{
+  "name": "Tushar Jain",
+  "role": "SDE",
+  "tagline": "Software Development Engineer crafting scalable digital solutions.",
+  "heroImageUrl": "https://static.everypixel.com/ep-pixabay/0329/8099/0858/84037/3298099085884037069-head.png",
+  "about": "I am a results-driven Software Development Engineer with a passion for building innovative digital solutions. With a strong foundation in frontend development and a keen eye for detail, I transform complex ideas into elegant, user-centric applications. I thrive on tackling challenging problems and continuously learning new technologies to deliver high-quality software.",
+  "experience": 1,
+  "currentRole": "SDE",
+  "highlights": [
+    "Achievement"
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "skills": [
+        "React"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "YOS",
+      "description": "Developed a comprehensive application designed to streamline user interactions and enhance system performance. Engineered with a focus on scalability and maintainability, delivering a seamless and intuitive user experience.",
+      "tech": []
+    }
+  ],
+  "contact": {
+    "email": "tj@adizen.ai",
+    "linkedin": "https://vercel.com/docs/rest-api/deployments/create-a-new-deployment",
+    "github": "https://vercel.com/docs/rest-api/deployments/create-a-new-deployment",
+    "twitter": "https://vercel.com/docs/rest-api/deployments/create-a-new-deployment"
+  }
+}
